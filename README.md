@@ -20,10 +20,11 @@ I've developed a password generator using JavaScript! This tool creates strong, 
 
 3. **Generate Passwords**:
     - Click the "Generate Password" button to get a new, strong password.
+## Contributions
+ Feel free to fork this repository and make improvements! Pull requests are welcome.
+
 
 ## Example
 ```plaintext
 Generated Password: A7f#3kL@9
-##Contributions
- Feel free to fork this repository and make improvements! Pull requests are welcome.
 
